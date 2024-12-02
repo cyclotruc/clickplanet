@@ -1,2 +1,0 @@
-# clickplanet
-clickplanet frontend
